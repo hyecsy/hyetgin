@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Halil Yetgin"
 description              : &description "personal description"
 url                      : https://hyecsy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/hyetgin" # the subpath of your site, e.g. "/blog"
 repository               : "hyetgin"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
